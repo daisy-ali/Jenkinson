@@ -3,7 +3,7 @@
 Welcome to the official repository for the Jenkinson Aquarium website. This project is designed to provide an informative and interactive experience for visitors interested in marine life, events, and educational programs offered by Jenkinson Aquarium.
 
 ## Live Demo
-[Play the game](https://daisy-ali.github.io/Jenkinson/)
+[View Demo](https://daisy-ali.github.io/Jenkinson/)
 
 ## Table of Contents
 - [About](#about)
